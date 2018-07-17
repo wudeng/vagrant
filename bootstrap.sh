@@ -42,4 +42,4 @@ EOF
 
 ## install
 sudo apt update
-sudo apt install build-essential lrzsz ack-grep mongodb libreadline-dev autoconf cmake openssl libssl-dev redis-server -y
+sudo apt install build-essential lrzsz ack-grep mongodb libreadline-dev rlwrap autoconf cmake openssl libssl-dev redis-server -y
